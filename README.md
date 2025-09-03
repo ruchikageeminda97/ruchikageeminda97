@@ -2,8 +2,8 @@
   <p align="right">
   <img src="https://github.com/user-attachments/assets/de859a2e-1561-4a16-af69-a6b4fa26b15d" alt="Animated GIF" width="300px">
 </p>
-<div><h1 align="center">Hi 👋, I'm Ruchika Geeminda.</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka.</h3></div>
+<div><h1 align="left">Hi 👋, I'm Ruchika Geeminda.</h1>
+<h3 align="left">A passionate full stack developer from Sri Lanka.</h3></div>
 </div>
 
 
