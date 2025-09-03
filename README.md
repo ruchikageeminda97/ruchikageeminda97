@@ -1,4 +1,4 @@
-<div>
+<div style="row">
   <p align="right">
   <img src="https://github.com/user-attachments/assets/de859a2e-1561-4a16-af69-a6b4fa26b15d" alt="Animated GIF" width="300px">
 </p>
