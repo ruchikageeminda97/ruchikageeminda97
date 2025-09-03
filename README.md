@@ -1,5 +1,7 @@
 ![gif](https://github.com/user-attachments/assets/a8cec409-3fcd-46e3-bc79-091981f1a337)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a8cec409-3fcd-46e3-bc79-091981f1a337" alt="Animated GIF" width="400px">
+</p>
 <h1 align="center">Hi 👋, I'm Ruchika Geeminda.</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka.</h3>
 
