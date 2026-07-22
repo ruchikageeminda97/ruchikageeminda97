@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning *C# and .Net*
 
-- 💬 Ask me about *Angular and NextJs*
+- 💬 Ask me about *Angular, React, NextJs Nodejs and Nestjs*
 
 - 📫 How to reach me *ruchikarg97@gmail.com*
 
