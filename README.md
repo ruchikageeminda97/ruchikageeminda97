@@ -12,7 +12,7 @@
 
 - 💬 Ask me about *Angular, React, NextJs Nodejs and Nestjs*
 
-- 📫 How to reach me *ruchikarg97@gmail.com*
+- 📫 How to reach me *ruchikarg97@gmail.com* or 0779742518
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
